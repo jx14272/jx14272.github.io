@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.cell {
+  background-color: #e4f4f5;
+}
+
+.pic-in-li {
+  list-style-type: none;
+}
+
+#combined-header {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.centered {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
